@@ -1,0 +1,17 @@
+C:\Teodor Spasov 12a\zadacha1\zadachi\bin\Debug\net8.0-windows\zadachi.exe
+C:\Teodor Spasov 12a\zadacha1\zadachi\bin\Debug\net8.0-windows\zadachi.deps.json
+C:\Teodor Spasov 12a\zadacha1\zadachi\bin\Debug\net8.0-windows\zadachi.runtimeconfig.json
+C:\Teodor Spasov 12a\zadacha1\zadachi\bin\Debug\net8.0-windows\zadachi.dll
+C:\Teodor Spasov 12a\zadacha1\zadachi\bin\Debug\net8.0-windows\zadachi.pdb
+C:\Teodor Spasov 12a\zadacha1\zadachi\obj\Debug\net8.0-windows\zadachi.Form1.resources
+C:\Teodor Spasov 12a\zadacha1\zadachi\obj\Debug\net8.0-windows\zadachi.Properties.Resources.resources
+C:\Teodor Spasov 12a\zadacha1\zadachi\obj\Debug\net8.0-windows\zadachi.csproj.GenerateResource.cache
+C:\Teodor Spasov 12a\zadacha1\zadachi\obj\Debug\net8.0-windows\zadachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teodor Spasov 12a\zadacha1\zadachi\obj\Debug\net8.0-windows\zadachi.AssemblyInfoInputs.cache
+C:\Teodor Spasov 12a\zadacha1\zadachi\obj\Debug\net8.0-windows\zadachi.AssemblyInfo.cs
+C:\Teodor Spasov 12a\zadacha1\zadachi\obj\Debug\net8.0-windows\zadachi.csproj.CoreCompileInputs.cache
+C:\Teodor Spasov 12a\zadacha1\zadachi\obj\Debug\net8.0-windows\zadachi.dll
+C:\Teodor Spasov 12a\zadacha1\zadachi\obj\Debug\net8.0-windows\refint\zadachi.dll
+C:\Teodor Spasov 12a\zadacha1\zadachi\obj\Debug\net8.0-windows\zadachi.pdb
+C:\Teodor Spasov 12a\zadacha1\zadachi\obj\Debug\net8.0-windows\zadachi.genruntimeconfig.cache
+C:\Teodor Spasov 12a\zadacha1\zadachi\obj\Debug\net8.0-windows\ref\zadachi.dll
